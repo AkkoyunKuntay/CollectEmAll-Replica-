@@ -1,0 +1,72 @@
+{
+  "levels": [
+    {
+      "level_number": 1,
+      "total_move": 8,
+      "row": 3,
+      "column": 9,
+      "target_objectives": [
+        {
+          "count": 3,
+          "name": "apple"
+        },
+        {
+          "count": 4,
+          "name": "banana"
+        },
+        {
+          "count": 5,
+          "name": "blueberry"
+        }
+      ]
+    },
+    {
+      "level_number": 2,
+      "total_move": 10,
+      "row": 4,
+      "column": 9,
+      "target_objectives": [
+        {
+          "count": 0,
+          "name": "apple"
+        },
+        {
+          "count": 6,
+          "name": "banana"
+        },
+        {
+          "count": 5,
+          "name": "blueberry"
+        },
+        {
+          "count": 4,
+          "name": "dragonfruit"
+        }
+      ]
+    },
+    {
+      "level_number": 3,
+      "total_move": 12,
+      "row": 5,
+      "column": 9,
+      "target_objectives": [
+        {
+          "count": 10,
+          "name": "apple"
+        },
+        {
+          "count": 5,
+          "name": "banana"
+        },
+        {
+          "count": 0,
+          "name": "blueberry"
+        },
+        {
+          "count": 3,
+          "name": "drop"
+        }
+      ]
+    }
+  ]
+}
